@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 from recommender import return_default_rec_show_list
 from functions import fetch_poster
 
