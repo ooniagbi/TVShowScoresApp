@@ -1,9 +1,9 @@
+import streamlit as st
 import pandas
 import pandas as pd
 import requests
-import os
 
-api_key = os.environ['API_KEY_TMDB']
+api_key = st.secrets["API_KEY_TMDB"]
 FILEPATH = 'files/averages.txt'
 
 
