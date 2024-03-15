@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3105a93e-c00c-4f99-a195-91d470ae4474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TVShowScoresApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ayaba.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/TMDB_tv_dataset_v3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/averages.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/rec_shows.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/esther.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/openime.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openime.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/1_Openime's_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/2_Ayaba's_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3_Recommended_series_for_Openime_and_Ayaba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4_Show_recommender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommender.py" afterDir="false" />
+    <list default="true" id="3105a93e-c00c-4f99-a195-91d470ae4474" name="Changes" comment="v1.0.0 complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +51,20 @@
       <option name="presentableId" value="Default" />
       <updated>1710497787586</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1.0.0 complete">
+      <option name="closed" value="true" />
+      <created>1710498613172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710498613172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v1.0.0 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.0 complete" />
   </component>
 </project>
